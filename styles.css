@@ -1,20 +1,12 @@
-.first{
-    width: 100px;
-    height: 100px;
-    background-color: aqua;
-}
 
-.second{
-    margin: 10px;
-    width: 100px;
-    height: 100px;
-    border-radius: 10px;
-    background-color: red;
-}
-
-.third{
+.fourth{
     width: 200px;
     height: 200px;
-    border-radius: 100px;
-    background-color: blue;
+    background-color: rgba(245, 245, 245, 0.671); 
+}
+
+.eighth{
+    width: 200px;
+    height: 200px;
+    background-color: rgba(245, 245, 245, 0.671); 
 }
