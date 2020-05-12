@@ -2,7 +2,7 @@
 .fourth{
     width: 200px;
     height: 200px;
-    background-color: 
+    background-color: white;
     display: flex;
     flex-direction: row;
 }
