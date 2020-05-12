@@ -1,20 +1,20 @@
 
 .fourth{
-    width: 400px;
+    width: 200px;
     height: 200px;
-    background-color: rgba(245, 245, 245, 0.671); 
+    background-color: 
     display: flex;
     flex-direction: row;
 }
 
 .eighth{
-    width: 200px;
+    width: 450px;
     height: 200px;
     background-color: rgba(245, 245, 245, 0.671); 
 }
 
 .carimage{
-    width: 200px;
-    height: 200px;
+    width: 950px;
+    height: 750px;
     
 }
