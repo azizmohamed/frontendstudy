@@ -2,7 +2,6 @@
 .fourth{
     width: 200px;
     height: 200px;
-    background-color: white;
     display: flex;
     flex-direction: row;
 }
@@ -17,4 +16,12 @@
     width: 950px;
     height: 750px;
     
+}
+
+html{
+    background: url('./images/body.jpg') no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
